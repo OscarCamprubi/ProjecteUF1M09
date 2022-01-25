@@ -1,0 +1,126 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.box {
+    padding: 1em;
+}
+
+.pilots{
+    text-align: right;
+}
+
+.points{
+    text-align: right;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#mercedes {
+    border: solid black 7px;
+    margin-right: 10px;
+}
+
+#mercedes:hover {
+    border: solid #00d2be 7px;
+    margin-right: 10px;
+}
+
+#redBull {
+    border: solid black 7px;
+    margin-left: 10px;
+}
+
+#redBull:hover {
+    border: solid #0600ef 7px;
+    margin-left: 10px;
+}
+
+#ferrari {
+    border: solid black 7px;
+    margin-right: 10px;
+}
+
+#ferrari:hover {
+    border: solid #dc0000 7px;
+    margin-right: 10px;
+}
+
+#mclaren {
+    border: solid black 7px;
+    margin-left: 10px;
+}
+
+#mclaren:hover {
+    border: solid #FF9800 7px;
+    margin-left: 10px;
+}
+#alpine {
+    border: solid black 7px;
+    margin-right: 10px;
+}
+
+#alpine:hover {
+    border: solid #0090ff 7px;
+    margin-right: 10px;
+}
+#alphaTauri {
+    border: solid black 7px;
+    margin-left: 10px;
+}
+
+#alphaTauri:hover {
+    border: solid #2b4562 7px;
+    margin-left: 10px;
+}
+#astonMartin {
+    border: solid black 7px;
+    margin-right: 10px;
+}
+
+#astonMartin:hover {
+    border: solid #006f62 7px;
+    margin-right: 10px;
+}
+
+#williams {
+    border: solid black 7px;
+    margin-left: 10px;
+}
+
+#williams:hover {
+    border: solid #005aff 7px;
+    margin-left: 10px;
+}
+
+#alfaRomeo {
+    border: solid black 7px;
+    margin-right: 10px;
+}
+
+#alfaRomeo:hover {
+    border: solid #900000 7px;
+    margin-right: 10px;
+}
+
+#haas {
+    border: solid black 7px;
+    margin-left: 10px;
+}
+
+#haas:hover {
+    border: solid #ffffff 7px;
+    margin-left: 10px;
+}
+
+body {
+    margin: 2em;
+    background-color: lightgrey;
+}
+
+#titleTeams {
+
+}
